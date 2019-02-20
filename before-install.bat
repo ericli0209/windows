@@ -1,2 +1,2 @@
-C:\Windows\system32\robocopy C:\Users\Administrator\1.txt C:\Users\Administrator\Desktop\1.txt
+C:\Windows\system32\robocopy 1.txt C:\temp\1.txt
 
